@@ -1,4 +1,4 @@
-# Mac Software Tools
+# Mac Software/Tools
 ###### Collection of tools I've discovered over the years
 ---
 ## Contents <br/>
@@ -12,7 +12,7 @@
 
 ## Info: <br/>
 
-blocks mean the following: <br/>
+Blocks mean the following: <br/>
 <span style="color:GREEN">`FREE` </span> = Tool is free <br/>
 <span style="color:RED">`PAID` </span> = Tool is not free <br/>
 <span style="color:PURPLE">`OPEN SOURCE` </span> = Tool is open source <br/>
