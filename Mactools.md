@@ -1,6 +1,6 @@
 # Mac Software Tools
 ###### Collection of tools I've discovered over the years
-------
+---
 ## Contents <br/>
 * Info
 * Documentation
