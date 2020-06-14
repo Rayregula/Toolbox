@@ -1,7 +1,11 @@
 # Windows Software/Tools
+
 ###### Collection of tools I've discovered over the years
+
 ---
+
 ## Contents <br/>
+
 * Info
 * Documentation
 * Audio
@@ -11,6 +15,7 @@
 * Utility
 
 ## Info: <br/>
+
 Blocks mean the following: <br/>
 <span style="color:GREEN">`FREE` </span> = Tool is free <br/>
 <span style="color:RED">`PAID` </span> = Tool is not free <br/>
@@ -19,6 +24,7 @@ Blocks mean the following: <br/>
 <span style="color:TEAL">`CROSSPLATFORM` </span> = Tool supports multiple platforms<br/>
 
 ## Documentation: <br/>
+
 **[Zeal](https://zealdocs.org/)**
 <span style="color:green">`FREE`</span>
 <span style="color:PURPLE">`OPEN SOURCE` </span>
@@ -26,6 +32,7 @@ Blocks mean the following: <br/>
 -- Offline documentation browser, with Dash doc support <br/>
 
 ## Audio: <br/>
+
 **[Audacity](https://www.audacityteam.org/)**
 <span style="color:green">`FREE`</span>
 <span style="color:PURPLE">`OPEN SOURCE` </span>
@@ -33,6 +40,7 @@ Blocks mean the following: <br/>
 -- Feature packed Audio recording/editing tool <br/>
 
 ## Coding: <br/>
+
 **[Gitkraken](https://www.gitkraken.com/)**
 <span style="color:ORANGE">`FREE/PAID` </span>
 <span style="color:TEAL">`CROSSPLATFORM` </span>
@@ -42,8 +50,14 @@ Blocks mean the following: <br/>
 <span style="color:PURPLE">`OPEN SOURCE` </span>
 <span style="color:TEAL">`CROSSPLATFORM` </span>
 -- Hackable code editor <br/>
+**[Mark Text](https://github.com/marktext/marktext)**
+<span style="color:GREEN">`FREE` </span>
+<span style="color:PURPLE">`OPEN SOURCE` </span>
+<span style="color:TEAL">`CROSSPLATFORM` </span>
+-- Markdown Editor (used to write this file)<br/>
 
 ## Design: <br/>
+
 **[Krita](https://krita.org/en/)**
 <span style="color:green">`FREE`</span>
 <span style="color:PURPLE">`OPEN SOURCE` </span>
@@ -65,6 +79,7 @@ Blocks mean the following: <br/>
 -- simple 2D/3D design software<br/>
 
 ## Remote Support: <br/>
+
 **[TeamViewer](https://www.teamviewer.com/en--us/)**
 <span style="color:ORANGE">`FREE/PAID` </span>
 <span style="color:TEAL">`CROSSPLATFORM` </span>
@@ -73,6 +88,7 @@ Blocks mean the following: <br/>
 []() <br/>
 
 ## Utility: <br/>
+
 **[balenaEtcher](https://www.balena.io/etcher/)**
 <span style="color:green">`FREE`</span>
 <span style="color:PURPLE">`OPEN SOURCE` </span>
@@ -87,3 +103,7 @@ Blocks mean the following: <br/>
 <span style="color:PURPLE">`OPEN SOURCE` </span>
 <span style="color:TEAL">`CROSSPLATFORM` </span>
 -- All in one media player and includes many codecs <br/>
+**[Free Download Manager](https://www.freedownloadmanager.org/)**
+<span style="color:green">`FREE`</span>
+<span style="color:TEAL">`CROSSPLATFORM` </span>
+-- Download manager with torrent support <br/>
