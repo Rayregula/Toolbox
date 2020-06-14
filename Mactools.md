@@ -51,7 +51,11 @@ Blocks mean the following: <br/>
 <span style="color:GREEN">`FREE` </span>
 <span style="color:PURPLE">`OPEN SOURCE` </span>
 -- Markdown Editor (used to write this file) <br/>
-
+**[Mark Text](https://github.com/marktext/marktext)**
+<span style="color:GREEN">`FREE` </span>
+<span style="color:PURPLE">`OPEN SOURCE` </span>
+<span style="color:TEAL">`CROSSPLATFORM` </span>
+-- Markdown Editor <br/>
 ## Design: <br/>
 **[Krita](https://krita.org/en/)**
 <span style="color:green">`FREE`</span>
